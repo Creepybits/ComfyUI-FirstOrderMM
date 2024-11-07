@@ -1,4 +1,5 @@
-# DF_Video_maker
+# ComfyUI-FirstOrderMM
+
 Note: This repository is copied from: https://github.com/FuouM/ComfyUI-FirstOrderMM
 
 The reson I didn't just fork it is because I found a lot of information needed to install this in various places, and it was both confusin and harrd to find all bits and pieces. I figure I'll make it easier by keeping everything at one place.
