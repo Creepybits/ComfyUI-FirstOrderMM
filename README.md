@@ -61,7 +61,7 @@ Download it here: [MODULE_SPLINE](https://drive.google.com/drive/folders/189zwBW
 
 1. Clone the repo to `ComfyUI/custom_nodes/`
 ```
-git clone https://github.com/FuouM/ComfyUI-FirstOrderMM.git
+git clone https://github.com/Creepybits/ComfyUI-FirstOrderMM.git 
 ```
 
 2. Install required dependencies
